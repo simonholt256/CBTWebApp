@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(235, 255, 253);
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  height: 500px;
+  width: 500px;
+  background-color: rgb(255, 254, 241);
+}
+
